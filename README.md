@@ -1,5 +1,4 @@
-## ping from one virtual machine to another
-You go to the Azure virtual machine section and select create virtual machine once there fill in all the fields (subscription, region, type of device to use, input ports, username and password)
+## 
 ![](imagenes\1.PNG)
 ![](imagenes\2.PNG)
 ![](imagenes\3.PNG)
