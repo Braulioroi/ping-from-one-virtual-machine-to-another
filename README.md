@@ -3,7 +3,7 @@
 ![](imagenes\2.PNG)
 ![](imagenes\3.PNG)
 
-We proceed to review and create the virtual machine and once the virtual machine is created, the next virtual machine begins to be created (put both virtual machines in the same resource group and same region)
+We proceed to review and create the virtual machine! Once the virtual machine is created, the next virtual machine begins to be created (put both virtual machines in the same resource group and same region)
 ![](imagenes\4.PNG)
 ![](imagenes\5.PNG)
 
